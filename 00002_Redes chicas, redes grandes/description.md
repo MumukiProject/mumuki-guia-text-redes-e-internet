@@ -1,0 +1,1 @@
+Hay redes de distintos tamaños, desde LANs hasta WANs.
