@@ -1,0 +1,1 @@
+También hay limitaciones físicas: no podemos transmitir todos los datos que queremos sin mejorar el medio físico. Y no podemos hacerlo a toda velocidad: hay limites tecnológicos e incluso físicos (no podemos superar la velocidad de la luz) 

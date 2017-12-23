@@ -1,0 +1,1 @@
+Cada nodo tiene una dirección IP, que lo identifica unívocamente dentro de esa red.  
