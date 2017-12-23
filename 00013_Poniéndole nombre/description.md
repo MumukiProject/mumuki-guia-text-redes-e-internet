@@ -1,0 +1,1 @@
+Dijimos que cada una de esas computadoras se pueden identificar con direcciones IP. Pero la vida en internet sería muy engorrosa si cada vez que tuviéramos que interactuar con esas computadoras deberíamos recordar y escribir esos numeritos. Por eso tenemos nombres de dominio.  
