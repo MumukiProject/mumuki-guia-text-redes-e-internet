@@ -1,0 +1,20 @@
+---
+tags: []
+layout: input_right
+editor: multiple_choice
+type: problem
+extra_visible: false
+manual_evaluation: false
+choices:
+- value: Una computadora enviando un archivo de texto a otra a través de wifi.
+  checked: true
+- value: Un cámara digital guardando por usb fotos en una computadora
+  checked: true
+- value: Un celular bajando una aplicación de la tienda de aplicaciones
+  checked: false
+- value: Un celular indicando la distancia de un lugar por GPS
+  checked: false
+- value: Un celular transfiriendo datos de internet a otro celular.
+  checked: true
+- value: Una partida de videojuegos entre un chico en Argentina y otro en Ecuador
+  checked: false
