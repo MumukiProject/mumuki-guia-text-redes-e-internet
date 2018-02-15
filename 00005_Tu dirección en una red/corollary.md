@@ -1,1 +1,1 @@
-Ese número no solo sirve para que los datos sepan a dónde llegar. Es el número que va a quedar grabado como el **origen** de los datos que mandes, así que sé responsable con todo lo que envies. 
+Ese número no solo sirve para que los datos sepan a dónde llegar. Es el número que va a quedar grabado como el **origen** de los datos que mandes, así que sé responsable con todo lo que envies. :wink:
