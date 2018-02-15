@@ -1,0 +1,1 @@
+La consola debería reconocer que es una dirección válida y decir que se fije bien si lo que escribió en la consola coincide con lo que vió en la página.
