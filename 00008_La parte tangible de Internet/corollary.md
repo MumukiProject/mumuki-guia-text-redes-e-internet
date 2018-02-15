@@ -1,0 +1,1 @@
+¡Increible! Ese número que obtuviste es el tiempo que tardaron tus datos en llegar hasta nuestro servidor. :stuck_out_tongue_winking_eye:
