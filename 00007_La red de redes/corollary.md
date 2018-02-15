@@ -1,1 +1,1 @@
-Muchos de los procesos en las redes están automatizados, ahorran mucho trabajo tedioso que al no hacerse a mano no aparece a la vista en los navegadores.
+Como verás, la mayoría de los procesos en las redes están automatizados, lo que ahorra mucho trabajo tedioso para nosotros, _oculto_ en los navegadores.
