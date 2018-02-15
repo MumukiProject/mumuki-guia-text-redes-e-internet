@@ -1,0 +1,24 @@
+---
+tags: []
+layout: input_bottom
+editor: multiple_choice
+type: problem
+extra_visible: false
+manual_evaluation: false
+choices:
+- value: Licuadora
+  checked: false
+- value: Heladera
+  checked: false
+- value: Consola de videojuegos
+  checked: true
+- value: Navegador de GPS
+  checked: true
+- value: Radio
+  checked: false
+- value: Teléfono
+  checked: false
+- value: Drone
+  checked: true
+- value: Cajero electrónico
+  checked: true
