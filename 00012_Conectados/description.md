@@ -1,1 +1,0 @@
-Y todo lo que hacés en internet (desde sincronizar el reloj de tu PC, subir fotos a tu red social favorita, o aprender con mumuki) implica comunicarse, directa o indirectamente, con muchas computadoras. 
