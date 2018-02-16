@@ -1,0 +1,20 @@
+---
+tags: []
+layout: input_bottom
+editor: multiple_choice
+type: problem
+extra_visible: false
+manual_evaluation: false
+choices:
+- value: Formar parte de una red
+  checked: true
+- value: Tener una dirección IP fija
+  checked: false
+- value: Tener un dominio
+  checked: false
+- value: Cables o antenas para el envío de datos
+  checked: true
+- value: Conocer la dirección IP de mumuki.io
+  checked: false
+- value: Electricidad
+  checked: true
