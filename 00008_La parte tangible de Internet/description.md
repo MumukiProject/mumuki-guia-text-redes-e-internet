@@ -14,7 +14,7 @@ La tecnología avanza para que esos datos logren viajar cada vez más rápido, p
 
 El tiempo que tardan los datos para llegar de un nodo al otro puede medirse. 
 
-> Ingresá a [http://ping.eu/ping/](http://ping.eu/ping/), escribí `mumuki.io` y apretá el botón **GO**. Escribí en la consola el resultado. 
+> Ingresá a [http://ping.eu/ping/](http://ping.eu/ping/), escribí `mumuki.io` y apretá el botón **GO**. Escribí en la consola alguno de los resultados. 
 
 > Podés probarlo también con sitios de distintos países.
 
