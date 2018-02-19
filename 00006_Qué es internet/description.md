@@ -1,4 +1,4 @@
-La _dirección IP_ que viste es el número con el que pueden localizarte en internet. Pero hay otra dirección IP que es tu **dirección IP local**.
+La _dirección IP_ que viste es el número con el que pueden localizarte en internet. Pero hay otra dirección IP que es tu **dirección IP local**, con la cual la red local reconoce a tu dispositivo.
 
 ¿Dos direcciones IP? ¿Red local? :cold_sweat: ¡Despejemos dudas!
 
