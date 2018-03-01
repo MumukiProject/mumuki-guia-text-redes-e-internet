@@ -1,5 +1,3 @@
-Internet es una red de redes
-
 Como ya vimos, para recibir datos de un nodo hay que saber su dirección IP. Pero... ¿cuántas veces tuviste que escribir una dirección IP para ingresar a un sitio de internet?
 
 Seguro que nunca. ¿No? :smirk: 
