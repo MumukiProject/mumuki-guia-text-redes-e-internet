@@ -12,6 +12,6 @@ Por otro lado, si la dirección IP cambia todo el tiempo, ¿cómo se pueden acce
 
 Bueno, hay servicios que permiten _alquilar_ una dirección IP que se va a mantener siempre igual (mientras se pague el servicio) y es a lo que se llama **dirección IP fija**.
 
-> Ingresa nuevamente en [https://www.whatismyip.com/es/](https://www.whatismyip.com/es/) en distintos lugares o días con el mismo dispositivo y vas a ver que tu dirección IP cambia.
+> Ingresa nuevamente en [http://cualesmiip.com](http://cualesmiip.com) en distintos lugares o días con el mismo dispositivo y vas a ver que tu dirección IP cambia.
 
 > Ingresá en [http://www.mon-ip.com/direccion-ip-sitio.php](http://www.mon-ip.com/direccion-ip-sitio.php) y probá con `mumuki.io` en distintos lugares y momentos del día. ¿Cambia?
