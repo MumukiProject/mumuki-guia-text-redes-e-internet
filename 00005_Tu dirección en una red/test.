@@ -1,1 +1,3 @@
-La consola debería reconocer que es una dirección válida y decir que se fije bien si lo que escribió en la consola coincide con lo que vió en la página.
+- name: La ip tiene el formato correcto
+  postconditions:
+    match: /^((25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.){3}(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)$/i

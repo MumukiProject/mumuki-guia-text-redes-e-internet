@@ -6,4 +6,4 @@ Con esta dirección IP, los datos saben cuál es su _nodo destino_. Pero, para e
 
 ¡Esperen! En este momento vos también tenés una conexión a internet, por lo que deberías tener una dirección IP. :smiley:
 
-> Averiguala [acá](https://www.whatismyip.com/es/) y escribila en la consola.
+> Averiguala [acá](http://www.cualesmiip.com/) y escribila en la consola.
