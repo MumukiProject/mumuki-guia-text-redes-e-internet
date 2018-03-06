@@ -1,4 +1,4 @@
-Las compus de la escuela :school: que te contamos antes, conectadas entre sí en un espacio limitado forman una red a la que llamamos _red de área local_ o **LAN**, (por sus siglas en inglés _Local Area Network_). Esta puede existir en una habitación, casa o un edificio. :office: 
+Las compus de la escuela :school: que te contamos antes, conectadas entre sí en un espacio limitado forman una red a la que llamamos _red de área local_ o **LAN**, (por sus siglas en inglés _Local Area Network_). Esta puede existir en una habitación, casa :house: o un edificio :office:.
  
 <center><img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-text-redes-e-internet/master/images/lan-01_1520343304001.png" alt="lan-01_1520343304001.png" width="300"></center>
 
