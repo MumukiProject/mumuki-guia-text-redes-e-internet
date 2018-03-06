@@ -7,7 +7,7 @@ Satélites como cables fueron construidos por :department_store: empresas o esta
 Esas organizaciones pueden tener su propia red de cables, más angostos, pero mejor distribuidos en el tendido eléctrico de una ciudad, y ofrecen acceso a internet a las redes hogareñas :house_with_garden:. Estos son _servicios de internet por cable_.
 
 Otras organizaciones tienen antenas en distintas terrazas de una ciudad y ofrecen acceso a Internet a individuos que estén dentro del área de esa antena (como es el caso de un servicio de internet para celulares :calling:).
+<center><img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-text-redes-e-internet/master/images/cobertura-01_1520345376548.png" alt="cobertura-01_1520345376548.png" width="300"></center>
 
 Es importante que sepas que el servicio que te brinda una empresa de internet es por tener **acceso**, y no por el contenido. :wink:
 
-TODO: SE PUEDE AGREGAR ACÁ UN DIAGRAMA CON "EL ÁREA" DE COBERTURA 
