@@ -2,7 +2,7 @@
 
 ¿Pero qué tienen en común todos los programas? ¡Que operan con información! Ya sean canciones, automóviles o listas de hospitales, para la computadora son sólo datos que podemos manipular a nuestro gusto. 
 
-Por ejemplo, podemos _transferirlos_ desde una computadora a otra, a través de un cable o de una antena. Y cuando cuando esto ocurre, decimos que esas dos computadoras están _conectadas_, o dicho de otra forma: _están en red_.
+Por ejemplo, podemos _transferirlos_ desde una computadora a otra, a través de un cable o de una antena. Y cuando esto ocurre, decimos que esas dos computadoras están _conectadas_, o dicho de otra forma: _están en red_.
 
 En el laboratorio de una escuela hay 4 computadoras: las de Analía, Bruno, Carlos y Daniela. Analía está conectada a Bruno y Carlos está conectado a Daniela. ¿Cuántas redes hay?
 
