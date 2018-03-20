@@ -1,4 +1,4 @@
-¿Te pusiste a pensar cuántas tareas podemos hacer con una computadora? Podemos leer textos, ver fotos, reproducir videos, escuchar canciones, ¡y mucho más! Y como ya sabemos, para realizar cualquiera de ellas necesitamos de programas específicos que alguien tuvo que... ejem... programar. :stuck_out_tongue:
+¿Cuántas tareas podemos hacer con una computadora? Podemos leer textos, ver fotos, reproducir videos, escuchar canciones, ¡y mucho más! Y como ya sabemos, para realizar cualquiera de ellas necesitamos de programas específicos que alguien tuvo que... ejem... programar. :stuck_out_tongue:
 
 ¿Pero qué tienen en común todos los programas? ¡Que operan con información! Ya sean canciones, automóviles o listas de hospitales, para la computadora son sólo datos que podemos manipular a nuestro gusto. 
 
