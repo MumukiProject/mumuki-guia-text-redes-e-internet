@@ -1,8 +1,6 @@
 ¿Te acordás que las direcciones IP no pueden repetirse? ¿Cómo se hace para saber qué direcciones están disponibles en el momento de conectarse a una red? 
 
-En una LAN sería simple: contamos los dispositivos, asignamos un número para cada uno, ¡y listo! :grinning:
-
-¿Pero cómo hacemos con las millones de computadoras... mejor dicho, nodos que hay en internet?
+En una LAN sería simple: contamos los dispositivos, asignamos un número para cada uno, ¡y listo! :grinning: ¿Pero cómo hacemos con las millones de computadoras... mejor dicho, nodos que hay en internet?
 
 Hay servicios que hacen esa consulta, automáticamente, antes de que accedas a internet. Verifican las direcciones disponibles y te asignan una. 
 
