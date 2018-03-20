@@ -1,4 +1,4 @@
-Pero si dijimos que en una red hay muchos nodos conectados... ¿Cómo hace la red para identificar a cada uno y saber a dónde tiene que enviar la información?
+Pero si en una red hay muchos nodos conectados... ¿cómo hace para identificar a cada uno y saber a dónde tiene que enviar la información?
 
 ¡Fácil! Con un método llamado **IP** (_Internet Protocol_), en el que cada nodo recibe un número de identificación. Ese número se conoce como **Dirección IP**.
 
