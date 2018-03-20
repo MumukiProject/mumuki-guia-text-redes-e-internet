@@ -1,4 +1,4 @@
-¿Te acordás que en el ejercicio 6 dijimos que las direcciones IP no pueden repetirse? ¿Cómo se hace para saber qué direcciones están disponibles en el momento de conectarse a una red? 
+¿Te acordás que las direcciones IP no pueden repetirse? ¿Cómo se hace para saber qué direcciones están disponibles en el momento de conectarse a una red? 
 
 En una LAN sería simple: contamos los dispositivos, asignamos un número para cada uno, ¡y listo! :grinning:
 
