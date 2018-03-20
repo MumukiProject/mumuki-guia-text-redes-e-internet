@@ -4,6 +4,5 @@ Pero si en una red hay muchos nodos conectados... ¿cómo hace para identificar 
 
 Con esta dirección IP, los datos que viajan saben cuál es su _nodo destino_. Pero, para esto, no deberían haber dos direcciones iguales; por eso, una dirección IP no es cualquier número al azar, sino que tiene que cumplir ciertas condiciones.
 
-¡Esperen! En este momento vos también tenés una conexión a internet, por lo que deberías tener una dirección IP. :smiley:
-
+> ¡Esperá! En este momento vos también tenés una conexión a internet, por lo que deberías tener una dirección IP. :smiley:
 > Averiguala [acá](http://www.cualesmiip.com/) y escribila en la consola.
