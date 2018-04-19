@@ -9,6 +9,11 @@ La _dirección IP_ que viste es el número con el que pueden localizarte en inte
 
 El conjunto de todas las redes es **Internet**. 
 
+
+<center>
+<img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-text-redes-e-internet/master/images/ej7_2-01_1524151468551.png" alt="ej7_2-01_1524151468551.png" width="350px" height="auto">
+</center>
+
 _Internet_ no es una computadora, ni un lugar específico; es millones de computadoras como la tuya, conectadas, enviándose datos a través de una gran red de redes. :scream:
 
 Y tu computadora es parte de _internet_.
