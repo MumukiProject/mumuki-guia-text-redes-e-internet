@@ -6,4 +6,4 @@ Las computadoras de la escuela :school: que te contamos antes, conectadas entre 
 
 Podríamos entonces _conectar_ dos o más redes **LAN**, formando así una _red de área ancha_, **WAN** (por las siglas en inglés _Wide Area Network_). Así, el tamaño de estas redes puede extenderse al planeta entero :earth_americas:, por lo que intuirás que la arquitectura que hay detrás suele ser mucho más compleja... y más costosa. :moneybag:
 
-<center><img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-text-redes-e-internet/master/images/ej2b-01_1524147821353.png" alt="ej2b-01_1524147821353.png" width="400px" height="auto"></center>
+<center><img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-text-redes-e-internet/master/images/ej2b-01_1524147821353.png" alt="ej2b-01_1524147821353.png" width="500px" height="auto"></center>
