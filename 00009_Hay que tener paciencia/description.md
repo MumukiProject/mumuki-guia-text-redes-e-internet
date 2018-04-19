@@ -8,7 +8,8 @@ Esas organizaciones pueden tener su propia red de cables, más angostos, pero me
 
 Otras organizaciones tienen antenas en distintas terrazas de una ciudad y ofrecen acceso a Internet a individuos que estén dentro del área de esa antena (como es el caso de un servicio de internet para celulares :calling:).
 
-<center><img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-text-redes-e-internet/master/images/cobertura-01_1520345376548.png" alt="cobertura-01_1520345376548.png" width="300"></center>
+<center>
+<img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-text-redes-e-internet/master/images/ej11-01_1524151743975.png" alt="ej11-01_1524151743975.png" width="300px" height="auto"></center>
 
 Es importante que sepas que el servicio que te brinda una empresa de internet es por tener **acceso**, y no por el contenido. :wink:
 
