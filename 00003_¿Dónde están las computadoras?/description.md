@@ -1,4 +1,4 @@
-Acordate que una computadora no es solo el aparato con pantalla y un teclado :computer:, sino cualquier máquina que tenga la capacidad de procesar datos. 
+Acordate que una computadora no es sólo el aparato con pantalla y un teclado :computer:, sino cualquier máquina que tenga la capacidad de procesar datos. 
 
 Un montón de objetos son computadoras aunque no lo parezcan, y muchos de ellos pueden conectarse a una red. :wink:
 

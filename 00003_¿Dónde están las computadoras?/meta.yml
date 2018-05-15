@@ -16,8 +16,6 @@ choices:
   checked: true
 - value: Radio
   checked: false
-- value: Teléfono
-  checked: false
 - value: Drone
   checked: true
 - value: Cajero electrónico
