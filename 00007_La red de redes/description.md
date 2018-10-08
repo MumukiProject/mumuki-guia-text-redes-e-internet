@@ -9,4 +9,4 @@ _mumuki.io_ es un _nombre de dominio_. Al escribirlo, tu navegador consulta al _
 Resumiendo, todos los sitios tienen una dirección IP detrás de su dominio. 
 
 > Ingresá a [esta página](http://www.mon-ip.com/direccion-ip-sitio.php) y averiguá la **dirección IP** de `mumuki.io`. 
-Escribilo en el editor
+> Escribilo en el editor.
