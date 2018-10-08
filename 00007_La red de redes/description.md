@@ -1,6 +1,6 @@
 Como ya vimos, para recibir datos de un nodo hay que saber su dirección IP. Pero... ¿cuántas veces tuviste que escribir una dirección IP para ingresar a un sitio de internet?
 
-Seguro que nunca. ¿No? :smirk: 
+Seguro que nunca, ¿no? :smirk: 
 
 No es ninguna magia. Hay servicios _registradores de dominios_, que asocian una _dirección IP_ a una _palabra_ (por ejemplo umm… `mumuki`), y luego le agregan un _sufijo_ para clasificarla (¿Qué tal... `.io`?) :stuck_out_tongue:
 
