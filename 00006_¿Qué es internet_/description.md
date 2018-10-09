@@ -1,11 +1,9 @@
-La _dirección IP_ que viste es el número con el que pueden localizarte en internet. Pero hay otra dirección IP que es tu **dirección IP local**, con la cual la red local reconoce a tu dispositivo.
+Hagamos un repaso de algunas cosas que te mencionamos hasta ahora:
 
-¿Dos direcciones IP? ¿Red local? :cold_sweat: ¡Despejemos dudas!
-
-* Ahora estás conectado a una _LAN_. 
-* Esa _LAN_ también está conectada a una _WAN_.
-* Esa _WAN_ está conectada a otras tantas _WANs_.
-* Dentro de esas _WANs_ pueden haber muchas _LANs_.
+* Ahora estás conectado a una _LAN_;
+* esa _LAN_ también está conectada a una _WAN_;
+* esa _WAN_ está conectada a otras tantas _WANs_;
+* dentro de esas _WANs_ pueden haber muchas _LANs_.
 
 El conjunto de todas las redes es **Internet**. 
 
