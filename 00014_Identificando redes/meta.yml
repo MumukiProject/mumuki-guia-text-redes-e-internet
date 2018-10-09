@@ -9,7 +9,7 @@ choices:
 - value: Una computadora enviando un archivo de texto a otra a través de wifi.
   checked: true
 - value: Un cámara digital guardando por usb fotos en una computadora.
-  checked: true
+  checked: false
 - value: Un celular bajando una aplicación de la tienda de aplicaciones.
   checked: false
 - value: Un celular indicando la distancia de un lugar por GPS.
