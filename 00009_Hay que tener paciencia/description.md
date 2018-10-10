@@ -1,4 +1,4 @@
-Otro medio para transmitir datos son los satélites :satellite:; orbitan nuestro planeta recibiendo y enviando datos en la forma de ondas a estaciones repetidoras en tierra firme. 
+Otro medio para transmitir datos son los satélites :satellite:, los cuales orbitan nuestro planeta recibiendo y enviando datos en la forma de ondas a estaciones repetidoras en tierra firme. 
 <br>
 Estos datos viajan menos rápido que por cables, y son solo el 20% de toda la transmisión de datos, pero ayudan a que haya acceso a Internet en lugares dónde no se podría acceder con cables fácilmente. 
 
