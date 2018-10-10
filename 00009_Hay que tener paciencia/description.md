@@ -2,7 +2,7 @@ Otro medio para transmitir datos son los satélites :satellite:, los cuales orbi
 <br>
 Estos datos viajan menos rápido que por cables, y son solo el 20% de toda la transmisión de datos, pero ayudan a que haya acceso a Internet en lugares dónde no se podría acceder con cables fácilmente. 
 
-Estos satélites fueron construidos por :department_store: empresas o estados que se ocupan de su mantenimiento y cobran por su uso cifras que serían impagables para un una persona común :bow:, pero que otras empresas o estados suelen pagar para tener acceso a estos medios de envío de datos super veloz.
+Estos satélites y cables fueron construidos por :department_store: empresas o estados que se ocupan de su mantenimiento y cobran por su uso cifras que serían impagables para un una persona común :bow:. Sin embargo, los estados u otras empresas suelen pagar para tener acceso a estos medios de envío de datos super veloz.
 
 Esas organizaciones pueden tener su propia red de cables, más angostos, pero mejor distribuidos en el tendido eléctrico de una ciudad, y ofrecen acceso a internet a las redes hogareñas :house_with_garden:. Estos son _servicios de internet por cable_.
 
