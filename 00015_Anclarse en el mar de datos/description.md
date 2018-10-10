@@ -13,5 +13,5 @@ Bueno, hay servicios que permiten _alquilar_ una dirección IP que se va a mante
 
 > Ingresa nuevamente en [http://cualesmiip.com](http://cualesmiip.com) en distintos lugares o días con el mismo dispositivo y vas a ver que tu dirección IP cambia.
 
-> Ingresá en [http://www.ipvoid.com/find-website-ip/](http://www.ipvoid.com/find-website-ip/) y probá con `mumuki.io` en distintos lugares y momentos del día. ¿Cambia?
+> Ingresá en [este sitio](http://www.mon-ip.com/direccion-ip-sitio.php) y probá con `mumuki.io` en distintos lugares y momentos del día. ¿Cambia?
 
