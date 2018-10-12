@@ -17,5 +17,5 @@ choices:
 - value: Conocer la dirección IP de mumuki.io
   checked: false
 - value: Electricidad
-  checked: true
+  checked: false
 name: El viaje de los datos
