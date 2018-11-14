@@ -1,4 +1,4 @@
-Pero si en una red hay muchos nodos conectados... ¿cómo hace para identificar a cada uno y saber a dónde tiene que enviar la información?
+Pero si en una red hay muchos nodos conectados... ¿Cómo hace para identificar a cada uno y saber a dónde tiene que enviar la información?
 
 Al igual que los humanos, las computadoras utilizan reglas para comunicarse y entenderse entre sí. ¡Ojo! Esto es una cuestión de _convenciones_, no de lenguaje. A este conjunto de reglas se lo llama **protocolo**.
 
@@ -10,6 +10,6 @@ Entonces, ¿cómo hacen para comunicarse los nodos? Mediante el **IP** (_Protoco
 
 ¡Cuidado! Las direcciones IP son un poco más complejas que un simple número, y tienen un formato particular...
 
-> ¡Esperá! En este momento vos también tenés una conexión a internet, por lo que deberías tener una dirección IP. :smiley:
+> ¡Esperá! :hand: En este momento vos también tenés una conexión a internet, por lo que tenés una dirección IP.
 >
-> Averiguala [acá](http://www.cualesmiip.com/) y escribila en el editor. Prestá atención a su formato :wink:
+> Averiguala [acá](http://www.cualesmiip.com/) y completa el campo.
