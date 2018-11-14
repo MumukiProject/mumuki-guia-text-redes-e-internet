@@ -18,6 +18,6 @@ choices:
   checked: false
 - value: Drone
   checked: true
-- value: Cajero electrónico
+- value: Cajero autómatico
   checked: true
 name: "¿Dónde viven las computadoras?"
