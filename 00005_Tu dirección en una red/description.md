@@ -12,4 +12,4 @@ Entonces, ¿cómo hacen para comunicarse los nodos? Mediante el **IP** (_Protoco
 
 > ¡Esperá! :hand: En este momento vos también tenés una conexión a internet, por lo que tenés una dirección IP.
 >
-> Averiguala [acá](http://www.cualesmiip.com/) y completa el campo.
+> Averiguala [acá](http://www.cualesmiip.com/) y escribila en el editor.
