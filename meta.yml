@@ -3,9 +3,7 @@ name: Redes e internet
 locale: es
 type: learning
 beta: false
-teacher_info: "Esta lección debería atacar, al menos, las siguientes dos cuestiones:
-  \n\n- hay programas que se ejecutan en muchas computadoras\n- no todas las computadoras
-  son obvias"
+teacher_info: ''
 language: text
 id_format: "%05d"
 order:
