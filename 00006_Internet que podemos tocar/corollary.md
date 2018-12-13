@@ -1,1 +1,1 @@
-Sí, así de loco como suena. Para poder conectar grandes áreas geográficas existen cables de gran grosor que cruzan todo el planeta, inclusive por debajo de los océanos y aseguran una rápida transferencia de información entre distintas partes del mundo.
+Sí, así de loco como suena :stuck_out_tongue_closed_eyes:. Para poder conectar grandes áreas geográficas existen cables de gran grosor que cruzan todo el planeta, inclusive por debajo de los océanos y aseguran una rápida transferencia de información entre distintas partes del mundo.
