@@ -1,1 +1,1 @@
-¡Muy bien! No todas las actividades que realizamos en la computadora tienen que ver con internet. De hecho desconectá tu computadora de internet y fijate cuantas cosas podés hacer con ella. :stuck_out_tongue_winking_eye:
+¡Muy bien! No todas las actividades que realizamos en la computadora tienen que ver con internet. De hecho desconectá tu computadora de internet y fijate cuantas cosas podés hacer con ella. :smirk:
