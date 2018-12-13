@@ -1,0 +1,19 @@
+---
+tags: []
+layout: input_bottom
+editor: multiple_choice
+type: problem
+extra_visible: false
+manual_evaluation: false
+choices:
+- value: los booleanos
+  checked: true
+- value: los números
+  checked: true
+- value: un DVD
+  checked: false
+- value: las fotos de las redes sociales
+  checked: true
+- value: un mouse
+  checked: false
+name: Demasiada información
