@@ -1,1 +1,1 @@
-¡Perfecto! La información también puede viajar por el aire, o, para mas exactitud, a través del vacío. ¿El corte de carne? No, [éste vacío](https://es.wikipedia.org/wiki/Vac%C3%ADo). 
+¡Perfecto! La información también puede viajar por el aire, o, para mas exactitud, a través del vacío. ¿El corte de carne? No, [éste vacío](https://es.wikipedia.org/wiki/Vac%C3%ADo) . 
