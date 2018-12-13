@@ -4,4 +4,4 @@ Esta información que viaja de manera inalámbrica (sin cables), lo hace con men
 
 > ¡El tiempo que tarda la información en llegar de una computadora a otra puede medirse! 
 
-> Tocá el botón para ver cuánto tarda y luego Enviar.
+> Tocá el botón para obtener el tiempo y luego _Enviar_.
