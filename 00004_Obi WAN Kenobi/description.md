@@ -4,5 +4,5 @@ Para crear una red que cubra una mayor distancia geográfica podríamos _conecta
 
 <center><img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-text-redes-e-internet/master/images/ej2b-01_1524147821353.png" alt="ej2b-01_1524147821353.png" width="500px" height="auto"></center>
 
-> ¿Cuál de las siguientes se puede tratar de una LAN?
+> ¿Cuál de las siguientes redes puede ser una LAN?
 
