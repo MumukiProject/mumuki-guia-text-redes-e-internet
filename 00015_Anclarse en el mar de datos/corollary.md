@@ -1,1 +1,0 @@
-¡Tal como lo supusimos! La dirección IP de Mumuki no cambia. 

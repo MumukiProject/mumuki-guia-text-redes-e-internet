@@ -1,9 +1,9 @@
 ---
 tags: []
 layout: input_bottom
-editor: code
+editor: free_form
 type: problem
 extra_visible: false
 manual_evaluation: false
 choices: []
-name: Anclarse en el mar de datos
+name: Satélite de amor
