@@ -1,4 +1,4 @@
-Los satélites y cables fueron construidos por :department_store: empresas o estados que se ocupan de su mantenimiento y cobran por su uso cifras que serían impagables para la mayoría de las personas :bow:. Sin embargo, los estados u otras empresas suelen pagar la suma necesaria para tener acceso a estos medios de envío de datos super veloz.
+Los satélites y cables fueron construidos por empresas :department_store: o estados que se ocupan de su mantenimiento y cobran por su uso cifras que serían impagables para la mayoría de las personas :bow:. Sin embargo, los estados u otras empresas suelen pagar la suma necesaria para tener acceso a estos medios de envío de datos super veloz.
 
 Esas organizaciones pueden tener su propia red de cables, más angostos, pero mejor distribuidos en el tendido eléctrico de una ciudad, y ofrecen acceso a internet a las redes hogareñas :house_with_garden:. Estos son _servicios de internet por cable_.
 
