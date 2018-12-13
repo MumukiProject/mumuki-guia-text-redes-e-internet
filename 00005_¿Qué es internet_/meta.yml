@@ -1,0 +1,18 @@
+---
+tags: []
+layout: input_bottom
+editor: multiple_choice
+type: problem
+extra_visible: false
+manual_evaluation: false
+choices:
+- value: Resolver ejercicios en Mumuki
+  checked: true
+- value: Bajar las fotos de una cámara a una computadora de escritorio con un cable
+    USB
+  checked: false
+- value: Leer un libro en PDF
+  checked: false
+- value: Ver una película en un sitio Web
+  checked: true
+name: "¿Qué es internet?"
