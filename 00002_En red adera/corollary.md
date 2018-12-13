@@ -1,0 +1,1 @@
+¡Recordalo!: una red no es una computadora, dado que una sóla computadora no está conectada con ella misma :wink:. ¡Tampoco es la conexión! La conexión entre computadoras tiene nombre, y se llama _enlace_.
