@@ -1,0 +1,1 @@
+Como podés ver la dirreción IP de un sitio y de tu computadora tienen el mismo formato. :sunglasses:
