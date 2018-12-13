@@ -1,1 +1,0 @@
-¡Muy bien! Como te habrás dado cuenta, los otros ejemplos son casos donde los datos vienen de lugares más alejados a tu edificio, y seguramente pasaron antes por más de una computadora. 
