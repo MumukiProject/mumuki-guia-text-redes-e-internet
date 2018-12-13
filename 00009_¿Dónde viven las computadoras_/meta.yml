@@ -17,5 +17,5 @@ choices:
 - value: Una mesa de madera
   checked: false
 - value: Cajero automático
-  checked: false
+  checked: true
 name: "¿Dónde viven las computadoras?"
