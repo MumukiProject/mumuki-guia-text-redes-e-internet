@@ -1,0 +1,21 @@
+---
+tags: []
+layout: input_bottom
+editor: multiple_choice
+type: problem
+extra_visible: false
+manual_evaluation: false
+choices:
+- value: Licuadora
+  checked: false
+- value: Consola de videojuegos
+  checked: true
+- value: Navegador GPS
+  checked: true
+- value: Teléfono celular
+  checked: true
+- value: Una mesa de madera
+  checked: false
+- value: Cajero automático
+  checked: false
+name: "¿Dónde viven las computadoras?"
