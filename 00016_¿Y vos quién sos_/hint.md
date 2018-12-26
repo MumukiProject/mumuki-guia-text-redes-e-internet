@@ -1,1 +1,0 @@
-Prestá atención al formato que tiene la dirección ip. :wink:
