@@ -1,4 +1,4 @@
-La mamá de Ale a veces tiene que conectarse con gerentes de las oficinas de Italia para hacer videollamadas, pero ya vimos que las LAN no nos sirven para esto. 
+La mamá de Ale a veces tiene que conectarse con gerentes de las oficinas de Italia para hacer videollamadas, pero ya vimos que las LAN no nos sirven para esto. :pensive:
 
 Para crear una red que cubra una mayor distancia geográfica podríamos _conectar_ dos o más redes **LAN**, formando así una _red de área amplia_, **WAN** (_Wide Area Network_). Así, el tamaño de estas redes puede extenderse al planeta entero :earth_americas:. Y si lo estás pensando, sí, este tipo de redes son mucho más complejas y costosas que las locales. :moneybag:
 
