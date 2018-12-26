@@ -1,4 +1,4 @@
-Espótifai no permite que las personas que lo usan escuchen música en más de un dispositivo simultáneamente, por lo cual es necesario identificar a cada nodo al cual se le está enviando información.
+Espótifai no permite que las personas que lo usan escuchen música en más de un dispositivo simultáneamente, por lo cual es necesario identificar a cada nodo al cual se le está enviando información. :mag_right:
 
 Para ello, cada nodo tiene un número único dentro de la red llamado **dirección IP**. Gracias a este número los datos que viajan saben exactamente cuál es su _nodo destino_. 
 
